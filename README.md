@@ -26,6 +26,3 @@ This project is for educational purposes and demonstrates the implementation of 
 ## Credits
 This project is inspired by [https://www.youtube.com/watch?v=LC0p5JmoDI4&t=519s].
 
----
-
-Feel free to customize the description according to your project's specifics and any additional functionalities or details you want to highlight!
